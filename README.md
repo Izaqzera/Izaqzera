@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning systems development...
 - 💞️ I’m looking to collaborate on web
 - 📫 How to reach me Instagram (Isaque.tomberlin) or Whatsapp (41)99198-8040
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- My gmail is isaquetomcosta207@gmail.com
 
 <!---
 Izaqzera/Izaqzera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
